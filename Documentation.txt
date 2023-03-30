@@ -1,10 +1,10 @@
 Application Notes with Tags.
 It was realized application that have:'
 1. Notes with tags that contains in own Array.
-2. Validation for note input field(it cant be empty).
-3. Fiild for searching notes.
+2. Validation note input field(it cant be empty).
+3. Field for searching notes.
 4. Add, view, change and delete notes.
-5. Delete tags.
+5. Deleting tags.
 6. Tags highlighted in red color.
 7. Storing data in json format in local storage.
 8. Styles using css and sass 
